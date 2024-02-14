@@ -8,4 +8,5 @@ vim.g.autoformat = true
 local opt = vim.opt
 
 opt.relativenumber = false -- Relative Line numbers
-opt.spelllang = { "en", "pt-br" }
+opt.spelllang = { "en", "pt_br" }
+opt.spell = true -- Toggle spellchecker functions
