@@ -1,5 +1,5 @@
 return {
-  "nvim-neo-tree/neo-trree.nvim",
+  "nvim-neo-tree/neo-tree.nvim",
   opts = {
     filesystem = {
       filtered_items = {
